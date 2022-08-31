@@ -1,1 +1,1 @@
-this is just me learning devops
+this repository is solely for learning learning devops
